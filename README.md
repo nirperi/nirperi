@@ -1,16 +1,27 @@
-<!---
-- 👋 Hi, all my name is Nir Peri.
-- And I'm Data Analyst / BI Developer for the last 2 years.
-- My passion is to develop Tableau report custom with using SQL.
-- I love to fined new functon in SQL and Tableau and solfwd(לפתור) ולפתור בעיות .
-- I'm invite you all to join to my jorninh(למסע שלי) and to see reports that I build with all my hard(לב).
-- 👀 I’m interested to be Data Analyst
-- 🌱 I’m currently learning SQL and tableau
-- 📫 https://www.linkedin.com/in/nirperi/
+### 👋 Hey there, I'm Nir Peri!
 
-<!---
-nirperi/nirperi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🔹 Data Analyst | BI Developer | SQL & Tableau Enthusiast
+
+💼 Experience: Over 2 years in Data Analytics & Business Intelligence
+
+📊 Expertise: SQL, Tableau, Data Visualization, UI/UX for dashboards
+
+🎯 Passion: Transforming data into actionable insights
+
+✨ What I Do:
+
+🚀 Build custom Tableau reports with optimized SQL queries
+
+🎨 Focus on UI/UX to create intuitive & visually appealing dashboards
+
+🔍 Explore advanced SQL functions to enhance data analysis
+
+🛠️ Solve complex problems and turn raw data into meaningful stories
+
+📢 Join my journey! Check out my projects and see how I bring data to life.
+
+📫 Connect with me:
+
 
 ### Languages and Tools
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -19,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 <img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" />
---->
 
 
 

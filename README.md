@@ -26,13 +26,10 @@
 
 
 📢 **Join my journey!** Check out my projects and see how I bring data to life.  
-
-📫 **Connect with me:**  
-<p align="center">
-  <a href="https://www.linkedin.com/in/nirperi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+ 
+📫 **Connect with me:**  <a href="https://www.linkedin.com/in/nirperi/">
+    <img alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-</p>
 
 
 

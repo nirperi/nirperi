@@ -24,14 +24,25 @@
 <hr style="border: 1px solid #ddd; border-width: 0.5px;">
 
 
+### 📚 My Top Open Source Projects
+
+<p align="left">
+    <a href="https://github.com/nirperi/AdventureWorks">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nirperi&repo=AdventureWorks&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AdventureWorks">
+    </a>
+    <a href="https://github.com/nirperi/Online-Shop">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nirperi&repo=Online-Shop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Online-Shop">
+    </a>
+</p>
+
+<hr style="border: 1px solid #ddd; border-width: 0.5px;">
+
+
 📢 **Join my journey!** Check out my projects and see how I bring data to life.  
  
 📫 **Connect with me:**  <a href="https://www.linkedin.com/in/nirperi/">
     <img alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-
-<hr style="border: 1px solid #ddd; border-width: 0.5px;">
-
 
 
 

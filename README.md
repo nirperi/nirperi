@@ -27,7 +27,7 @@
 ### 📚 My Top Open Source Projects
 
 <p align="left">
-    <a href="https://github.com/nirperi/AdventureWorks">
+    <a href="https://github.com/nirperi/Bike-Shop">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nirperi&repo=AdventureWorks&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bike Shop">
     </a>
     <a href="https://github.com/nirperi/Online-Shop">

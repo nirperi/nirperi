@@ -2,7 +2,7 @@
 
 ### 🔹 Data Analyst | BI Developer | SQL & Tableau Enthusiast  
 
-💼 **Experience: 3 years** in Data Analytics & Business Intelligence  
+💼 **Experience: 2+ years** in Data Analytics & Business Intelligence  
 📊 **Expertise:** SQL, Tableau, Data Visualization, UI/UX for dashboards  
 🎯 **Passion:** Transforming data into actionable insights  
 ✨ **What I Do:**  
